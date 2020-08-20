@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-material-http-paging": {
+      "hosting": {
+        "my-dream-app": [
+          "angular-material-http-paging"
+        ]
+      }
+    }
+  }
+}
